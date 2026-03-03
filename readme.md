@@ -114,8 +114,8 @@ $$\text{RFM Score} = R\_score + F\_score + M\_score$$
 | Segment | Condition |
 |---|---|
 | 🟢 High Value | RFM Score ≥ 7 |
-| 🟡 Medium Value | RFM Score ≥ 5 |
-| 🔴 Low Value | RFM Score < 5 |
+| 🟡 Medium Value | RFM Score ≥ 4 |
+| 🔴 Low Value | RFM Score < 4 |
 
 These labeled segments were used as the target variable for model training.
 
