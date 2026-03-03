@@ -1,5 +1,10 @@
 # End-to-End Business Intelligence & Customer Value Prediction System
 
+## Demo
+[Click here to try the live app](https://bi-and-prediction-system.streamlit.app/)
+
+---
+
 ## Project Overview
 
 This project builds a complete **Business Intelligence and Predictive Modeling system** to measure and predict Customer Value using historical online retail transaction data.
